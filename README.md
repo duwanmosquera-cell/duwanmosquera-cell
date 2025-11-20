@@ -1,2 +1,2 @@
 Duwan Mosquera
-Soy nuevo Jugando a ser Desarrillador.
+Soy nuevo Jugando a ser Desarrollador.
