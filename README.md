@@ -2,7 +2,6 @@
 <p align="center">
   <img src="URL_DE_TU_IMAGEN" style="width:100%; max-height:250px; object-fit:cover;"/>
 </p>
-
 ### Ingeniero Biomédico | Desarrollador Técnico | Emprendedor en Soluciones Funcionales
 
 Soy ingeniero biomédico con formación en tecnología de equipos biomédicos y experiencia en desarrollo técnico autodidacta.  
