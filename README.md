@@ -37,7 +37,7 @@ Combino rigor técnico con visión ética y estratégica, orientando cada inicia
 ---
 
 ## Estadísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duwanmosquera&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=duwanmosquera&show_icons=true&theme=default)
 ---
 
 ## Contacto
