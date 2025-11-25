@@ -1,14 +1,51 @@
-Buenas,  Hi, I’m Duban Mosquera 👋
-Biomedical Engineer and web development student from Colombia.
-Learning: HTML, CSS, JavaScript
-Tools: Git, GitHub, SSH, WSL
-Interests: building practical projects and automation
-Contact: wanem osquera at gmail dot com or Email me﻿(mailto:duwanmosquera@gmail.com//
+# Duwan Ramiro Mosquera Cubillos
 
-Ingeniero biomédico y estudiante de desarrollo web en Colombia.
-Aprendiendo: HTML, CSS y JavaScript
-Herramientas: Git, GitHub, SSH, WSL
-Intereses: crear proyectos prácticos y automatizaciones]
-💻 🖥️ 🐧 (Linux/WSL) 🔧 ⚙️ 🧰
-🌐 HTML: 🔤 / 🧱 · 🎨 CSS: 🎨 · 🧠 JS: ⚡
-🧬 Biomedical: 🧬 🫀 🏥 🔬
+### Ingeniero Biomédico | Desarrollador Técnico | Emprendedor en Soluciones Funcionales
+
+Soy ingeniero biomédico con formación en tecnología de equipos biomédicos y experiencia en desarrollo técnico autodidacta.  
+Me especializo en la integración de **arquitecturas escalables**, **automatización de procesos** y **gestión de bases de datos**, aplicando estándares internacionales en documentación y presentación de proyectos.  
+Combino rigor técnico con visión ética y estratégica, orientando cada iniciativa hacia la innovación y la transferencia de conocimiento.
+
+---
+
+## Competencias Técnicas
+- Administración avanzada de entornos **Windows** y configuración de variables de entorno
+- Diseño y migración de **bases de datos PostgreSQL** con enfoque en escalabilidad
+- Desarrollo backend modular con **FastAPI** y **SQLAlchemy**
+- Flujo completo de **Git/GitHub** en terminales profesionales (VS Code, Git Bash, WSL)
+- Automatización y visualización de datos con **Power BI**
+- Organización visual y estructuración de proyectos en **VS Code** bajo estándares internacionales
+
+---
+
+## Proyectos Destacados
+- **Biomedical Blockchain Map**  
+  Contribución al mapeo global de iniciativas blockchain aplicadas a biomedicina y salud.  
+- **API para Gestión de Equipos Biomédicos**  
+  Backend modular en FastAPI conectado a PostgreSQL, con endpoints documentados en Swagger.  
+- **Soluciones Textiles Funcionales**  
+  Emprendimiento orientado a la innovación técnica aplicada a la salud y el bienestar.
+
+---
+
+## Intereses Profesionales
+- Innovación ética y técnica en biomédica  
+- Escalabilidad y gestión profesional de recursos tecnológicos  
+- Documentación pública y validación de proyectos en GitHub  
+- Desarrollo de metodologías visuales para la validación de procesos técnicos
+
+---
+
+## Estadísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duwanmosquera&show_icons=true&theme=default)
+
+---
+
+## Contacto
+- LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+- Portafolio:tu página personal o repositorio] ](https://github.com/duwanmosquera-cell
+- Email: duwanmosquera@gmail.com 
+
+---
+
+> “La innovación técnica cobra valor cuando se documenta con rigor y se comparte con propósito.”
