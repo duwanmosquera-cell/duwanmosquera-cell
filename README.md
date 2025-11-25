@@ -1,5 +1,5 @@
 # Duwan Ramiro Mosquera Cubillos
-<p align="center">
+<p align="left">
   <img src="https://copilot.microsoft.com/th/id/BCO.b39b8089-0d8e-4373-a865-52cc8e861a44.png" width="90%" style="height:35%; object-fit:cover;"/>
 </p>
 ### Ingeniero Biomédico | Desarrollador Técnico | Emprendedor en Soluciones Funcionales
