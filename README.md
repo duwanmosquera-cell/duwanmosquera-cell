@@ -43,7 +43,7 @@ Combino rigor técnico con visión ética y estratégica, orientando cada inicia
 
 ## Contacto
 - LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
-- Portafolio:tu página personal o repositorio] ](https://github.com/duwanmosquera-cell
+- Portafolio:https://github.com/duwanmosquera-cell
 - Email: duwanmosquera@gmail.com 
 
 ---
