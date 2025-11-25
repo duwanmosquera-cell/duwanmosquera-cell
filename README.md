@@ -1,4 +1,5 @@
 # Duwan Ramiro Mosquera Cubillos
+![Biomedical Header](https://copilot.microsoft.com/th/id/BCO.b39b8089-0d8e-4373-a865-52cc8e861a44.png)
 
 ### Ingeniero Biomédico | Desarrollador Técnico | Emprendedor en Soluciones Funcionales
 
