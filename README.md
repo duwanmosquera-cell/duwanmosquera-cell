@@ -2,7 +2,7 @@
 <p align="left">
   <img src="https://copilot.microsoft.com/th/id/BCO.b39b8089-0d8e-4373-a865-52cc8e861a44.png" width="90%" style="height:35%; object-fit:cover;"/>
 </p>
-### Ingeniero Biomédico | Desarrollador Técnico | Emprendedor en Soluciones Funcionales
+### Ingeniero Biomédico Universidad ECCI Bogota,Colombia| Desarrollador Técnico | Emprendedor en Soluciones Funcionales
 
 Soy ingeniero biomédico con formación en tecnología de equipos biomédicos y experiencia en desarrollo técnico autodidacta.  
 Me especializo en la integración de **arquitecturas escalables**, **automatización de procesos** y **gestión de bases de datos**, aplicando estándares internacionales en documentación y presentación de proyectos.  
